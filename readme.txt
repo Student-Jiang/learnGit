@@ -5,4 +5,4 @@ Git tracks changes of files.
 I love Li.
 Work in dev branch.
 Creating a new branch is quick & simple.
-This is master branch.
+This is master branch and conflic fixed.
